@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lucaslei" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF4472C4</item>
+        <item name="android:navigationBarColor">#FF4472C4</item>
+    </style>
+</resources>
